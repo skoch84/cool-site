@@ -1,12 +1,25 @@
 main {
   display: inline-block;
   width: 1250px;
+  height: 300px;
+}
+body {
+  width: 1250px;
 }
 h1 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: blue;
   color: aliceblue;
   width: 1250px;
+}
+
+h2, h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
 }
 .center {
 padding: 10px;
@@ -16,8 +29,8 @@ padding: 10px;
   display: inline-block;
   position: absolute;
   right: 650px;
-  width: 20%;
-  text-align: left;
+  left: 780px;
+  width: 382px;
 }
 
 .box {
@@ -37,7 +50,7 @@ padding: 10px;
 }
 .image {
   display: inline-block;
-  width: 50%;
+  width: 100%;
 }
 footer {
   display: inline-block;
