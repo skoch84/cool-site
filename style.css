@@ -1,0 +1,38 @@
+main {
+  margin: 5vh;
+  margin: 15vw;
+}
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: blue;
+  color: aliceblue;
+}
+.center {
+padding: 10px;
+}
+
+.right {
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+}
+
+.sidebox {
+  display: inline-block;
+  width: 50%;
+}
+.bluebox {
+  background-color: blue;
+  width: 1000px;
+  padding: 10px;
+  margin: 0;
+}
+.image {
+  display: inline-block;
+}
+footer {
+  display: inline-block;
+  width: fit-content;
+  height: 20vh;
+  background-color: blue
+}
