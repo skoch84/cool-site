@@ -15,11 +15,19 @@ padding: 10px;
   display: inline-block;
   position: absolute;
   right: 0px;
+  width: 20%;
+  text-align: left;
+}
+
+.box {
+  padding: 100px,0,10,0;
+  margin: 200px;
+  width: 50%;
 }
 
 .sidebox {
   display: inline-block;
-  width: 50%;
+  width: 25%;
 }
 .bluebox {
   background-color: blue;
@@ -29,6 +37,7 @@ padding: 10px;
 }
 .image {
   display: inline-block;
+  width: 50%;
 }
 footer {
   display: inline-block;
