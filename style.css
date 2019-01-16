@@ -11,6 +11,7 @@ h1 {
   background-color: blue;
   color: aliceblue;
   width: 1250px;
+  padding-block-start: 20px;
 }
 
 h2, h4 {
@@ -23,6 +24,14 @@ p {
 }
 .center {
 padding: 10px;
+}
+
+.light-blue-box {
+  background-color: aqua;
+  width: 1250px;
+  height: 50px;
+  margin-top: 20px;
+  padding-block-end: 80px;
 }
 
 .right {
